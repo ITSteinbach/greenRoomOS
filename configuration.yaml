@@ -33,3 +33,10 @@ sensors:
     humidity: sensor.humidity_tent_2
     name: Tent 2
     
+
+
+# https://github.com/kalkih/mini-graph-card?tab=readme-ov-file#add-resource-reference
+ # [Mini Graph Card HACS]
+resources:
+  - url: /local/mini-graph-card-bundle.js?v=0.12.1
+    type: module
