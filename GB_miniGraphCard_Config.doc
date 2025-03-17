@@ -1,0 +1,8 @@
+type: custom:mini-graph-card
+name: SERVER
+icon: mdi:server
+entities:
+  - entity: sensor.meter_9c24
+    name: TOTAL
+  - sensor.speedtest_download
+  - sensor.sonoff_snzb_02d_batterie
