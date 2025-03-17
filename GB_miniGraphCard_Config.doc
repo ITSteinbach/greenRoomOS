@@ -6,3 +6,5 @@ entities:
     name: TOTAL
   - sensor.speedtest_download
   - sensor.sonoff_snzb_02d_batterie
+
+
