@@ -1,7 +1,8 @@
 # 🌱 Smart Grow Room Assistant
 
 Ein auf Home Assistant basiertes Projekt zur Überwachung und Automatisierung einer Indoor-Pflanzumgebung. 
-Ziel ist es, ideale Wachstumsbedingungen durch Sensorgestützte Steuerung von Licht, Klima und Bewässerung zu schaffen.
+
+| Ziel ist es, ideale Wachstumsbedingungen durch Sensorgestützte Steuerung von Licht, Klima und Bewässerung zu schaffen. |
 
 
 geplante Funktionen
