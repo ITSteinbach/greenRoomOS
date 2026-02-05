@@ -2,6 +2,7 @@
 
 Ein auf [Home Assistant](https://www.home-assistant.io/) basiertes Projekt zur Überwachung und Automatisierung einer Indoor-Pflanzumgebung.
 
+
 Ziel ist es, durch Sensorgestützte Steuerung von Licht, Klima und Bewässerung produktivere Wachstumsbedingungen zu schaffen.
 
 geplante Funktionen:
