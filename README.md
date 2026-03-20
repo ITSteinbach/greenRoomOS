@@ -1,8 +1,8 @@
 # 🌱 **greenRoomOS** ein Smarter Grow Room Assistant 
 
-Ein auf [Home Assistant](https://www.home-assistant.io/) basiertes Projekt zur Überwachung und Automatisierung eines Indoor Growroom [120cmx60cm]
+Ein auf [Home Assistant](https://www.home-assistant.io/) basiertes Projekt zur Überwachung und Automatisierung eines Indoor Gewächshaus [120cmx60cm]
 
-Ziel ist es, durch Sensorgestützte Steuerung u.a. von Licht, Klima und Bewässerung eine effiziente und produktive Wachstumsumgebung zu schaffen.
+Ziel ist es, durch Sensorgestützte Steuerung u.a. von Licht, Klima und Bewässerung eine effiziente und produktive Wachstumsumgebung für Pflanzen aller Art zu schaffen.
 
 ##### Funktionen:
 
